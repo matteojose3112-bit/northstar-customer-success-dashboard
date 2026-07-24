@@ -1,118 +1,100 @@
 # Northstar Customer Success Dashboard
 
+## Live Demo
+
+🚀 https://matteojose3112-bit.github.io/northstar-customer-success-dashboard/
+
+---
+
 ## Overview
 
 Northstar is a Customer Success Operations dashboard designed to simulate a SaaS customer health monitoring platform.
 
-The dashboard provides visibility into customer retention, risk levels, customer segmentation, and Customer Success Manager performance.
+The dashboard provides visibility into customer retention, account health, risk levels, customer segmentation, and Customer Success Manager performance.
 
 ---
 
-## Features
+## Key Features
 
-- Dynamic customer data loading
-- Customer health scoring
-- Customer risk monitoring
-- Customer distribution analytics
-- CSM filtering
-- Industry filtering
-- Risk-level filtering
-- Search by company
-- Live KPI updates
-- Live chart updates
-- CSV export functionality
-
----
-
-## Dashboard Metrics
-
-The dashboard tracks:
-
-- Total Customers
-- Healthy Customers
-- At-Risk Customers
-- Churn Risk
-- Customer Health Trends
-- Customer Distribution
-- Customer Success Manager Ownership
+✅ Dynamic customer data loading
+✅ Customer health monitoring
+✅ Risk-level analysis
+✅ CSM ownership tracking
+✅ Industry segmentation
+✅ Customer search
+✅ Interactive filtering
+✅ Live KPI updates
+✅ Live chart updates
+✅ CSV export functionality
 
 ---
 
-## Technologies Used
+## Dashboard Capabilities
 
-- HTML5
-- CSS3
-- JavaScript
-- Chart.js
-- JSON Data
+Northstar tracks:
 
----
+### Customer Health
 
-## Business Concepts Demonstrated
+* Healthy accounts
+* At-risk customers
+* Customer risk distribution
+* Health trends
 
-This project demonstrates knowledge of:
+### Customer Success Operations
 
-- Customer Success Operations
-- Customer Lifecycle Management
-- Customer Health Analytics
-- Retention Strategy
-- Churn Prevention
-- CRM Data Management
+* Customer Success Manager ownership
+* Account segmentation
+* Retention monitoring
+* Expansion opportunities
 
----
+### Customer Lifecycle
 
-## Use Case
-
-Designed to simulate a Customer Success Operations environment where teams monitor:
-
-- Customer engagement
-- Account health
-- Renewal risk
-- Expansion opportunities
+* New customers
+* Active customers
+* Expansion accounts
+* Churn-risk accounts
 
 ---
 
-## Screenshots
+## Technology Stack
 
-_Add dashboard screenshots here._
-
-Example:
-
-```
-/screenshots/northstar-dashboard.png
-```
+* HTML5
+* CSS3
+* JavaScript
+* Chart.js
+* JSON Data
 
 ---
 
-## How To Run
+## Business Skills Demonstrated
 
-1. Clone the repository
+This project demonstrates understanding of:
 
-```
-git clone YOUR_REPOSITORY_URL
-```
-
-2. Open:
-
-```
-index.html
-```
+* Customer Success Operations
+* Customer Lifecycle Management
+* CRM Data Management
+* Retention Analytics
+* Churn Prevention
+* Customer Health Scoring
 
 ---
 
-## Career Relevance
+## Project Purpose
 
-This project demonstrates skills applicable to:
+Built to demonstrate the operational side of Customer Success and how teams use data to improve retention, identify risk, and support customer growth.
 
-- Customer Success Operations Analyst
-- Customer Success Manager
-- CRM Specialist
-- Revenue Operations Coordinator
+Relevant roles:
+
+* Customer Success Operations Analyst
+* Customer Success Manager
+* CRM Specialist
+* Revenue Operations Coordinator
 
 ---
 
 ## Author
 
-Matteo Jose
+**Matteo Jose**
 
 Customer Success Operations | CRM | Revenue Operations
+
