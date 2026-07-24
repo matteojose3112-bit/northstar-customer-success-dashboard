@@ -1147,13 +1147,7 @@ async function loadCustomers(){
 
     try{
 
-        const response =
-
-            await fetch(
-
-                "data/customers.json"
-
-            );
+        const response = await fetch("./data/customers.json");
 
         customers =
 
